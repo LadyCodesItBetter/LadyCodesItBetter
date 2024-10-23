@@ -92,4 +92,5 @@ If you'd like to connect or collaborate, feel free to reach out via my social ac
 **Description:** Makr Shakr is the world's first robotic bartending system. I led the full-stack development of this innovative platform, focusing on the integration between hardware and software, and ensuring a smooth user experience.
 
 <h3>Thank you for visiting my profile! 🚀</h2>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2154QE0)
